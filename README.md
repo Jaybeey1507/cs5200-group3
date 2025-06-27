@@ -11,4 +11,4 @@ Step 2
 copy all the .php files in game_analytics folder to htdocs inside your xampp installtion files
 
 step3
-go to [http:](http://localhost/game_analytics/login.php) to signup and then login
+go to [http:](http://localhost/game_analytics/login.php) or http://localhost/game_analytics/login.php to signup and then login
