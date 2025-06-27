@@ -5,7 +5,7 @@ How to use
 Step 1:
 Goto phpMyAdmin
 Click import
-Select the game_analytics.sql on your local computer (this will import all the tables)
+Select the game_analytics.sql on your local computer (this will import all the tables with game_analytics database)
 
 Step 2
 copy all the .php files in game_analytics folder to htdocs inside your xampp installtion files
