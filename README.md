@@ -8,7 +8,7 @@ Click import
 Select the game_analytics.sql on your local computer (this will import all the tables with game_analytics database)
 
 Step 2
-copy all the game_analytics folder to htdocs inside your xampp installtion files
+copy the game_analytics folder to htdocs inside your xampp installtion files
 
 step3
 go to [http:](http://localhost/game_analytics/login.php) or http://localhost/game_analytics/login.php to signup and then login
