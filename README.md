@@ -2,6 +2,8 @@
 
 How to use
 
+For Local Installtion:
+
 Step 1:
 Goto phpMyAdmin
 Click import
@@ -12,3 +14,12 @@ copy the game_analytics folder to htdocs inside your xampp installtion files
 
 step3
 go to [http:](http://localhost/game_analytics/login.php) or http://localhost/game_analytics/login.php to signup and then login
+
+
+For deployment:
+
+visit https://game-analytics.atwebpages.com/login.php
+
+Sign up with your email and passord
+Then, login
+Enjoy
